@@ -1,16 +1,16 @@
-## Hi there 👋
+# About me
 
-<!--
-**alex-b06/alex-b06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Projects:  
+BarTrak, attachable barbell velocity and power tracker for sports analytics
 
-Here are some ideas to get you started:
+## Currently Learning:
+Git, Python, C++, PyTorch, C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to reach me:
+Instagram: alex.b5413  
+LinkedIn: www.linkedin.com/in/alex-blasbalg
+
+## Interests / Ask me About:
+Machine learning, website design, biomechanics, biological applications of engineering, circuits
+
+
