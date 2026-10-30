@@ -7,7 +7,6 @@ BarTrak, attachable barbell velocity and power tracker for sports analytics
 Git, Python, C++, PyTorch, C
 
 ## How to reach me:
-Instagram: alex.b5413  
 LinkedIn: www.linkedin.com/in/alex-blasbalg
 
 ## Interests / Ask me About:
